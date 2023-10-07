@@ -1,0 +1,24 @@
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\bin\Debug\net6.0-windows\ADO.NET Disconnected Mode.exe
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\bin\Debug\net6.0-windows\ADO.NET Disconnected Mode.deps.json
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\bin\Debug\net6.0-windows\ADO.NET Disconnected Mode.runtimeconfig.json
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\bin\Debug\net6.0-windows\ADO.NET Disconnected Mode.dll
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\bin\Debug\net6.0-windows\ADO.NET Disconnected Mode.pdb
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\obj\Debug\net6.0-windows\ADO.NET Disconnected Mode.csproj.AssemblyReference.cache
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\obj\Debug\net6.0-windows\ADO.NET_Disconnected_Mode.Form1.resources
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\obj\Debug\net6.0-windows\ADO.NET Disconnected Mode.csproj.GenerateResource.cache
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\obj\Debug\net6.0-windows\ADO.NET Disconnected Mode.GeneratedMSBuildEditorConfig.editorconfig
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\obj\Debug\net6.0-windows\ADO.NET Disconnected Mode.AssemblyInfoInputs.cache
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\obj\Debug\net6.0-windows\ADO.NET Disconnected Mode.AssemblyInfo.cs
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\obj\Debug\net6.0-windows\ADO.NET Disconnected Mode.csproj.CoreCompileInputs.cache
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\obj\Debug\net6.0-windows\ADO.NET Disconnected Mode.dll
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\obj\Debug\net6.0-windows\refint\ADO.NET Disconnected Mode.dll
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\obj\Debug\net6.0-windows\ADO.NET Disconnected Mode.pdb
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\obj\Debug\net6.0-windows\ADO.NET Disconnected Mode.genruntimeconfig.cache
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\obj\Debug\net6.0-windows\ref\ADO.NET Disconnected Mode.dll
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\ADO.NET\ADO.NET Disconnected Mode\ADO.NET Disconnected Mode\obj\Debug\net6.0-windows\ADO.NET Disconnected Mode.csproj.CopyComplete
